@@ -1,0 +1,264 @@
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("ImageLabel")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local UIListLayout = Instance.new("UIListLayout")
+local _3262592866OrangeJustice = Instance.new("TextButton")
+local _3450125501Smug = Instance.new("TextButton")
+local _3623215692BoogieDown = Instance.new("TextButton")
+local _4963373273BlowjobSex = Instance.new("TextButton")
+local _4966833843BangSex = Instance.new("TextButton")
+local _4966879039LayDownBangSex = Instance.new("TextButton")
+local _4787449997Soldier = Instance.new("TextButton")
+local _4966882047BenddownSex = Instance.new("TextButton")
+local _4837749916Carlton2 = Instance.new("TextButton")
+local _4846209506KazotskyKick20 = Instance.new("TextButton")
+local _4776575115DefaultDance = Instance.new("TextButton")
+local _5238669868GoopieDance = Instance.new("TextButton")
+local _4837753372PraiseTheLord20 = Instance.new("TextButton")
+local _4827299133TakeTheL = Instance.new("TextButton")
+local _882120151KarateMoves = Instance.new("TextButton")
+local close = Instance.new("TextButton")
+local close_Roundify_12px = Instance.new("ImageLabel")
+
+ScreenGui.Parent = game.CoreGui
+
+Frame.Name = "Frame"
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.Position = UDim2.new(0.483030319, 0, 0.138169259, 0)
+Frame.Size = UDim2.new(0, 238, 0, 338)
+Frame.Image = "rbxassetid://3570695787"
+Frame.ImageColor3 = Color3.fromRGB(33, 33, 33)
+Frame.ImageTransparency = 0.080
+Frame.ScaleType = Enum.ScaleType.Slice
+Frame.SliceCenter = Rect.new(100, 100, 100, 100)
+Frame.SliceScale = 0.120
+Frame.Active = true
+Frame.Draggable = true
+
+ScrollingFrame.Parent = Frame
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ScrollingFrame.BackgroundTransparency = 1.000
+ScrollingFrame.BorderSizePixel = 0
+ScrollingFrame.Position = UDim2.new(0, 0, 0.0946745574, 0)
+ScrollingFrame.Size = UDim2.new(0, 238, 0, 306)
+ScrollingFrame.CanvasSize = UDim2.new(0, 0, 1, 50)
+ScrollingFrame.ScrollBarThickness = 16
+
+UIListLayout.Parent = ScrollingFrame
+UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+UIListLayout.Padding = UDim.new(0, 7)
+
+_3262592866OrangeJustice.Name = "3262592866 | Orange Justice"
+_3262592866OrangeJustice.Parent = ScrollingFrame
+_3262592866OrangeJustice.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_3262592866OrangeJustice.Size = UDim2.new(0, 200, 0, 18)
+_3262592866OrangeJustice.Font = Enum.Font.SourceSans
+_3262592866OrangeJustice.Text = "3262592866 | Orange Justice"
+_3262592866OrangeJustice.TextColor3 = Color3.fromRGB(0, 0, 0)
+_3262592866OrangeJustice.TextSize = 14.000
+_3262592866OrangeJustice.MouseButton1Click:Connect(function()
+setclipboard("3262592866")
+end)
+
+_3450125501Smug.Name = "3450125501 | Smug  "
+_3450125501Smug.Parent = ScrollingFrame
+_3450125501Smug.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_3450125501Smug.Size = UDim2.new(0, 200, 0, 18)
+_3450125501Smug.Font = Enum.Font.SourceSans
+_3450125501Smug.Text = "3450125501 | Smug  "
+_3450125501Smug.TextColor3 = Color3.fromRGB(0, 0, 0)
+_3450125501Smug.TextSize = 14.000
+_3450125501Smug.MouseButton1Click:Connect(function()
+setclipboard("3450125501")
+end)
+
+_3623215692BoogieDown.Name = "3623215692 | Boogie Down"
+_3623215692BoogieDown.Parent = ScrollingFrame
+_3623215692BoogieDown.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_3623215692BoogieDown.Size = UDim2.new(0, 200, 0, 18)
+_3623215692BoogieDown.Font = Enum.Font.SourceSans
+_3623215692BoogieDown.Text = "3623215692 | Boogie Down"
+_3623215692BoogieDown.TextColor3 = Color3.fromRGB(0, 0, 0)
+_3623215692BoogieDown.TextSize = 14.000
+_3623215692BoogieDown.MouseButton1Click:Connect(function()
+setclipboard("3623215692")
+end)
+
+_4963373273BlowjobSex.Name = "4963373273 | Blowjob | Sex"
+_4963373273BlowjobSex.Parent = ScrollingFrame
+_4963373273BlowjobSex.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4963373273BlowjobSex.Size = UDim2.new(0, 200, 0, 18)
+_4963373273BlowjobSex.Font = Enum.Font.SourceSans
+_4963373273BlowjobSex.Text = "4963373273 | Blowjob | Sex"
+_4963373273BlowjobSex.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4963373273BlowjobSex.TextSize = 14.000
+_4963373273BlowjobSex.MouseButton1Click:Connect(function()
+setclipboard("4963373273")
+end)
+
+_4966833843BangSex.Name = "4966833843 | Bang | Sex"
+_4966833843BangSex.Parent = ScrollingFrame
+_4966833843BangSex.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4966833843BangSex.Size = UDim2.new(0, 200, 0, 18)
+_4966833843BangSex.Font = Enum.Font.SourceSans
+_4966833843BangSex.Text = "4966833843 | Bang | Sex"
+_4966833843BangSex.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4966833843BangSex.TextSize = 14.000
+_4966833843BangSex.MouseButton1Click:Connect(function()
+setclipboard("4966833843")
+end)
+
+_4966879039LayDownBangSex.Name = "4966879039 | Lay Down Bang | Sex"
+_4966879039LayDownBangSex.Parent = ScrollingFrame
+_4966879039LayDownBangSex.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4966879039LayDownBangSex.Size = UDim2.new(0, 200, 0, 18)
+_4966879039LayDownBangSex.Font = Enum.Font.SourceSans
+_4966879039LayDownBangSex.Text = "4966879039 | Lay Down Bang | Sex"
+_4966879039LayDownBangSex.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4966879039LayDownBangSex.TextSize = 14.000
+_4966879039LayDownBangSex.MouseButton1Click:Connect(function()
+setclipboard("4966879039")
+end)
+
+_4787449997Soldier.Name = "4787449997 | Soldier [*]"
+_4787449997Soldier.Parent = ScrollingFrame
+_4787449997Soldier.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4787449997Soldier.Size = UDim2.new(0, 200, 0, 18)
+_4787449997Soldier.Font = Enum.Font.SourceSans
+_4787449997Soldier.Text = "4787449997 | Soldier [*]"
+_4787449997Soldier.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4787449997Soldier.TextSize = 14.000
+_4787449997Soldier.MouseButton1Click:Connect(function()
+setclipboard("4787449997")
+end)
+
+_4966882047BenddownSex.Name = "4966882047 | Bend down | Sex"
+_4966882047BenddownSex.Parent = ScrollingFrame
+_4966882047BenddownSex.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4966882047BenddownSex.Size = UDim2.new(0, 200, 0, 18)
+_4966882047BenddownSex.Font = Enum.Font.SourceSans
+_4966882047BenddownSex.Text = "4966882047 | Bend down | Sex"
+_4966882047BenddownSex.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4966882047BenddownSex.TextSize = 14.000
+_4966882047BenddownSex.MouseButton1Click:Connect(function()
+setclipboard("4966882047")
+end)
+
+_4837749916Carlton2.Name = "4837749916 | Carlton 2"
+_4837749916Carlton2.Parent = ScrollingFrame
+_4837749916Carlton2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4837749916Carlton2.Size = UDim2.new(0, 200, 0, 18)
+_4837749916Carlton2.Font = Enum.Font.SourceSans
+_4837749916Carlton2.Text = "4837749916 | Carlton 2"
+_4837749916Carlton2.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4837749916Carlton2.TextSize = 14.000
+_4837749916Carlton2.MouseButton1Click:Connect(function()
+setclipboard("4837749916")
+end)
+
+_4846209506KazotskyKick20.Name = "4846209506 | Kazotsky Kick 2.0"
+_4846209506KazotskyKick20.Parent = ScrollingFrame
+_4846209506KazotskyKick20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4846209506KazotskyKick20.Size = UDim2.new(0, 200, 0, 18)
+_4846209506KazotskyKick20.Font = Enum.Font.SourceSans
+_4846209506KazotskyKick20.Text = "4846209506 | Kazotsky Kick 2.0"
+_4846209506KazotskyKick20.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4846209506KazotskyKick20.TextSize = 14.000
+_4846209506KazotskyKick20.MouseButton1Click:Connect(function()
+setclipboard("4846209506")
+end)
+
+_4776575115DefaultDance.Name = "4776575115 | Default Dance [*]"
+_4776575115DefaultDance.Parent = ScrollingFrame
+_4776575115DefaultDance.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4776575115DefaultDance.Size = UDim2.new(0, 200, 0, 18)
+_4776575115DefaultDance.Font = Enum.Font.SourceSans
+_4776575115DefaultDance.Text = "4776575115 | Default Dance[Fornite]"
+_4776575115DefaultDance.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4776575115DefaultDance.TextSize = 14.000
+_4776575115DefaultDance.MouseButton1Click:Connect(function()
+setclipboard("4776575115")
+end)
+
+_5238669868GoopieDance.Name = "5238669868 | Goopie Dance [*]"
+_5238669868GoopieDance.Parent = ScrollingFrame
+_5238669868GoopieDance.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_5238669868GoopieDance.Size = UDim2.new(0, 200, 0, 18)
+_5238669868GoopieDance.Font = Enum.Font.SourceSans
+_5238669868GoopieDance.Text = "5238669868 | Goopie Dance [*]"
+_5238669868GoopieDance.TextColor3 = Color3.fromRGB(0, 0, 0)
+_5238669868GoopieDance.TextSize = 14.000
+_5238669868GoopieDance.MouseButton1Click:Connect(function()
+setclipboard("5238669868")
+end)
+
+_4837753372PraiseTheLord20.Name = "4837753372 | Praise The Lord 2.0"
+_4837753372PraiseTheLord20.Parent = ScrollingFrame
+_4837753372PraiseTheLord20.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4837753372PraiseTheLord20.Size = UDim2.new(0, 200, 0, 18)
+_4837753372PraiseTheLord20.Font = Enum.Font.SourceSans
+_4837753372PraiseTheLord20.Text = "4837753372 | Praise The Lord 2.0"
+_4837753372PraiseTheLord20.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4837753372PraiseTheLord20.TextSize = 14.000
+_4837753372PraiseTheLord20.MouseButton1Click:Connect(function()
+setclipboard("4837753372")
+end)
+
+_4827299133TakeTheL.Name = "4827299133 | Take The L [*]"
+_4827299133TakeTheL.Parent = ScrollingFrame
+_4827299133TakeTheL.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_4827299133TakeTheL.Size = UDim2.new(0, 200, 0, 18)
+_4827299133TakeTheL.Font = Enum.Font.SourceSans
+_4827299133TakeTheL.Text = "4827299133 | Take The L [*]"
+_4827299133TakeTheL.TextColor3 = Color3.fromRGB(0, 0, 0)
+_4827299133TakeTheL.TextSize = 14.000
+_4827299133TakeTheL.MouseButton1Click:Connect(function()
+setclipboard("4827299133")
+end)
+
+_882120151KarateMoves.Name = "882120151 | Karate Moves  "
+_882120151KarateMoves.Parent = ScrollingFrame
+_882120151KarateMoves.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_882120151KarateMoves.Size = UDim2.new(0, 200, 0, 18)
+_882120151KarateMoves.Font = Enum.Font.SourceSans
+_882120151KarateMoves.Text = "882120151 | Karate Moves  "
+_882120151KarateMoves.TextColor3 = Color3.fromRGB(0, 0, 0)
+_882120151KarateMoves.TextSize = 14.000
+_882120151KarateMoves.MouseButton1Click:Connect(function()
+setclipboard("882120151")
+end)
+
+close.Name = "close"
+close.Parent = Frame
+close.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+close.BackgroundTransparency = 1.000
+close.BorderSizePixel = 0
+close.Position = UDim2.new(0.768907547, 0, 0.0177514795, 0)
+close.Size = UDim2.new(0, 36, 0, 24)
+close.ZIndex = 2
+close.Font = Enum.Font.GothamBlack
+close.Text = "X"
+close.TextColor3 = Color3.fromRGB(255, 0, 0)
+close.TextSize = 14.000
+close.MouseButton1Click:Connect(function()
+ScreenGui:Destroy()
+end)
+
+close_Roundify_12px.Name = "close_Roundify_12px"
+close_Roundify_12px.Parent = close
+close_Roundify_12px.Active = true
+close_Roundify_12px.AnchorPoint = Vector2.new(0.5, 0.5)
+close_Roundify_12px.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+close_Roundify_12px.BackgroundTransparency = 1.000
+close_Roundify_12px.Position = UDim2.new(0.5, 0, 0.5, 0)
+close_Roundify_12px.Selectable = true
+close_Roundify_12px.Size = UDim2.new(1, 0, 1, 0)
+close_Roundify_12px.Image = "rbxassetid://3570695787"
+close_Roundify_12px.ImageColor3 = Color3.fromRGB(172, 0, 0)
+close_Roundify_12px.ScaleType = Enum.ScaleType.Slice
+close_Roundify_12px.SliceCenter = Rect.new(100, 100, 100, 100)
+close_Roundify_12px.SliceScale = 0.120
